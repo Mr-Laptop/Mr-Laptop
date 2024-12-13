@@ -11,4 +11,6 @@ Mr-Laptop/Mr-Laptop is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<div align="center">
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+</div>
