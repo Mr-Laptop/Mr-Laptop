@@ -12,9 +12,3 @@ You can click the Preview link to take a look at your changes.
 </span>
 
 <br>
-
-
-<div>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Laptop.png" alt="Your Image Badge" />
-</div>
-
